@@ -74,6 +74,10 @@ a:hover {
   text-decoration: none;
 }
 
+.icon:hover {
+  fill: #f09228;
+}
+
 body,
 td,
 th,

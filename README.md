@@ -1,1 +1,1 @@
-This is the source code to Qi Cui's public academic website: qi-cui.github.io, drawing inspiration from Jon Barron's website https://jonbarron.info/.
+This is the source code to Qi Cui's public academic website: https://qi-cui.github.io/, drawing inspiration from Jon Barron's website https://jonbarron.info/.

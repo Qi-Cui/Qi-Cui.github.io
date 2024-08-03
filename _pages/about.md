@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <i>Committed to developing technology that serves humanity and the greater good.</i>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Greater Chicago Area</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a currently Master's student in Computer Science at the <a href="https://siebelschool.illinois.edu/">University of Illinois, Urbana Champaign</a>. I obtained my bachelor's degree in Computer Science, Data Science, and Mathematics from the <a href="https://umich.edu/">University of Michigan</a>. Prior to that, I spent a year studying Mathematics and Economics at the <a href="https://uci.edu/">University of California, Irvine</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently serving as a summer intern with the <a href="https://www.tencent.com/">Tencent</a> Paas Platform Infrastructure Development Team. Previously, I developed robotics software for stroke rehabilitation at the <a href="https://neurro-lab.engin.umich.edu/">NeuRRo Lab</a>, under the supervision of Dr. Chandramouli Krishnan. Prior to that, I worked at the <a href="https://www.assetlab.org/">Asset Lab</a>, where I developed predictive models for electricity demand, advised by Dr. Michael Craig.
